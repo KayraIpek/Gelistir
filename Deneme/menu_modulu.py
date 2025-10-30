@@ -40,5 +40,3 @@ class MenuSistemi:
                 print()
                 print("----------MENU-----------")
 
-# Artık 'karsilama' fonksiyonuna ihtiyacımız yok, onu MenuSistemi'ne taşıdık.
-# if __name__ == "__main__": bloğu bu dosyadan tamamen kaldırılmıştır.
